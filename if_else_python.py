@@ -19,6 +19,6 @@ elif Age >= 18 and Age <= 21:
   print("Go to Canada, you can have a drink there legally")
 
 else:
-  print("Go home and go to sleep")  
+  print("Go to sleep")  
 
 
